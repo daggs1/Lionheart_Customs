@@ -1,0 +1,3 @@
+an Plugin for Endless-Sky which introduces Lionheart Customs.
+
+the shipyard introduces special variants of Lionheart ships.

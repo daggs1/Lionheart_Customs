@@ -1,0 +1,8 @@
+Format: http://www.debian.org/doc/packaging-manuals/copyright-format/1.0/
+Upstream-Name: Lionheart Customs
+Upstream-Contact: Dagg Stompler <daggs@gmx.com>
+Source:
+
+Files: *
+Copyright: Copyright Dagg Stompler <daggs@gmx.com>
+License: GPL-3+
