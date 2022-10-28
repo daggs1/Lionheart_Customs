@@ -1,3 +1,7 @@
 shipyard "Lionheart Customs"
        "Aerie (No Bays)"
        "Bactrian (No Bays)"
+
+outfitter "Lionheart Customs"
+       "Weapon Capacity Expansion"
+       "Engine Capacity Expansion"

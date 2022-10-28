@@ -1,0 +1,25 @@
+outfit "Engine Capacity Expansion"
+	category "Systems"
+	cost 33500
+	thumbnail "outfit/outfit expansion"
+	"mass" 3
+	"engine capacity" 10
+	"outfit space" -10
+	"cooling inefficiency" 0.5
+	"heat dissipation" -.01
+	"unplunderable" 1
+	description "This expansion allows you to sacrifice some outfit space in order to make room for more engine space."
+	description "	Unfortunately, rearranging the interior of your ship in such a fundamental way tends to interfere with its cooling systems."
+
+outfit "Weapon Capacity Expansion"
+	category "Systems"
+	cost 33500
+	thumbnail "outfit/outfit expansion"
+	"mass" 3
+	"weapon capacity" 10
+	"outfit space" -10
+	"cooling inefficiency" 0.5
+	"heat dissipation" -.01
+	"unplunderable" 1
+	description "This expansion allows you to sacrifice some outfit space in order to make room for more weapon space,"
+	description "	Unfortunately, rearranging the interior of your ship in such a fundamental way tends to interfere with its cooling systems."
