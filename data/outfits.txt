@@ -1,4 +1,4 @@
-outfit "Engine Capacity Expansion"
+outfit "O2E Capacity Expansion"
 	category "Systems"
 	cost 33500
 	thumbnail "outfit/outfit expansion"
@@ -6,9 +6,9 @@ outfit "Engine Capacity Expansion"
 	"engine capacity" 10
 	"outfit space" -10
 	"unplunderable" 1
-	description "This expansion allows you to sacrifice some outfit space in order to make room for more engines space."
+	description "This outfit to engine capacity expansion allows you to sacrifice some outfit space in order to make room for more engines space."
 
-outfit "Weapon Capacity Expansion"
+outfit "O2W Capacity Expansion"
 	category "Systems"
 	cost 33500
 	thumbnail "outfit/outfit expansion"
@@ -16,4 +16,4 @@ outfit "Weapon Capacity Expansion"
 	"weapon capacity" 10
 	"outfit space" -10
 	"unplunderable" 1
-	description "This expansion allows you to sacrifice some outfit space in order to make room for more weapons space,"
+	description "This outfit to weapon capacity expansion allows you to sacrifice some outfit space in order to make room for more weapons space,"

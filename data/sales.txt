@@ -3,5 +3,5 @@ shipyard "Lionheart Customs"
        "Bactrian (No Bays)"
 
 outfitter "Lionheart Customs"
-       "Weapon Capacity Expansion"
-       "Engine Capacity Expansion"
+       "O2W Capacity Expansion"
+       "O2E Capacity Expansion"
