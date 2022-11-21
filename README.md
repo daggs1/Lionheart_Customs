@@ -4,5 +4,6 @@ an Plugin for Endless-Sky which introduces Lionheart Customs.
 the shipyard introduces special variants of Lionheart ships
 the outfitter introduces special expansion outfits to allow more freedom
 for ships
+before purchasing any outfit, please read the outfit description thoroughly.
 
 installation quide: https://endless-sky.fandom.com/wiki/Mods
