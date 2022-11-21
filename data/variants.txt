@@ -9,4 +9,4 @@ ship "Bactrian" "Bactrian (No Bays)"
        add attributes
                "cargo space" 375
        remove bays
-       description "This Bactrian variant is the same as the original one but without the internal fighters bays, instead the ship has more cargo."
+       description "This Bactrian variant is the same as the original one but without the internal fighters bays, instead the ship has more cargo volume."
