@@ -4,4 +4,6 @@ shipyard "Lionheart Customs"
 
 outfitter "Lionheart Customs"
        "O2W Capacity Expansion"
+       "W2O Capacity Expansion"
        "O2E Capacity Expansion"
+       "E2O Capacity Expansion"

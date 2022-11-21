@@ -7,6 +7,22 @@ outfit "O2E Capacity Expansion"
 	"outfit space" -10
 	"unplunderable" 1
 	description "This outfit to engine capacity expansion allows you to sacrifice some outfit space in order to make room for more engines space."
+	description "	it is highly recommended NOT to mix this outfit with the outfit that does the"
+	description "	opposite as it can cause loss of space. if needed, uninstall this outfit completely"
+	description "	prior to installing the opposite outfit."
+
+outfit "E2O Capacity Expansion"
+	category "Systems"
+	cost 33500
+	thumbnail "outfit/outfit expansion"
+	"mass" 3
+	"engine capacity" -10
+	"outfit space" 10
+	"unplunderable" 1
+	description "This engine to outfit capacity expansion allows you to sacrifice some engines space in order to make room for more outfit space."
+	description "	it is highly recommended NOT to mix this outfit with the outfit that does the"
+	description "	opposite as it can cause loss of space. if needed, uninstall this outfit completely"
+	description "	prior to installing the opposite outfit."
 
 outfit "O2W Capacity Expansion"
 	category "Systems"
@@ -17,3 +33,19 @@ outfit "O2W Capacity Expansion"
 	"outfit space" -10
 	"unplunderable" 1
 	description "This outfit to weapon capacity expansion allows you to sacrifice some outfit space in order to make room for more weapons space,"
+	description "	it is highly recommended NOT to mix this outfit with the outfit that does the"
+	description "	opposite as it can cause loss of space. if needed, uninstall this outfit completely"
+	description "	prior to installing the opposite outfit."
+
+outfit "W2O Capacity Expansion"
+	category "Systems"
+	cost 33500
+	thumbnail "outfit/outfit expansion"
+	"mass" 3
+	"weapon capacity" -10
+	"outfit space" 10
+	"unplunderable" 1
+	description "This weapon to outfit capacity expansion allows you to sacrifice some weapons space in order to make room for more outfit space,"
+	description "	it is highly recommended NOT to mix this outfit with the outfit that does the"
+	description "	opposite as it can cause loss of space. if needed, uninstall this outfit completely"
+	description "	prior to installing the opposite outfit."
