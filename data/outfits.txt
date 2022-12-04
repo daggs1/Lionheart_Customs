@@ -49,3 +49,20 @@ outfit "W2O Capacity Expansion"
 	description "	it is highly recommended NOT to mix this outfit with the outfit that does the"
 	description "	opposite as it can cause loss of space. if needed, uninstall this outfit completely"
 	description "	prior to installing the opposite outfit."
+
+outfit "Upgraded Outfits Expansion"
+	category "Systems"
+	licenses
+		City-Ship
+	cost 1000000
+	thumbnail "outfit/outfit expansion"
+	"mass" 5
+	"outfit space" 15
+	"cargo space" -20
+	"cooling inefficiency" 0.6
+	"heat dissipation" -0.01
+	"unplunderable" 1
+	description "This expansion is an upgrade to the standard Outfits Expansion, the upgrade factor comes from a rare mineral that Lionheart scientists have discovered."
+	description "   by infusing it into the structure of the alloy used to create the bulkhead, the cooling efficiency is vastly improved."
+	description "	the main issue is that this mineral is rather scarse and the entire process of infusion it really expasive.
+	description "   so in order to try and reduce the demand for this outfit, a combination of high price tag and City-Ship license were placed."
