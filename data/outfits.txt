@@ -64,5 +64,5 @@ outfit "Upgraded Outfits Expansion"
 	"unplunderable" 1
 	description "This expansion is an upgrade to the standard Outfits Expansion, the upgrade factor comes from a rare mineral that Lionheart scientists have discovered."
 	description "   by infusing it into the structure of the alloy used to create the bulkhead, the cooling efficiency is vastly improved."
-	description "	the main issue is that this mineral is rather scarse and the entire process of infusion it really expasive.
+	description "	the main issue is that this mineral is rather scarse and the entire process of infusion it really expansive."
 	description "   so in order to try and reduce the demand for this outfit, a combination of high price tag and City-Ship license were placed."
